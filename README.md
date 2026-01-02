@@ -1,6 +1,7 @@
-EN
+[English](#english) | [Russian](#russian)
 
 
+##English
 
 Free and open-source Telegram bot for collecting suggestions and feedback from users.
 
@@ -27,5 +28,7 @@ How to deploy:
 9. Send a message to your bot in Telegram.
 
 
+##Russian
 
+smt
 
