@@ -52,5 +52,6 @@ How to deploy:
    
    Если всё сделано правильно, вы увидите следующий результат:
    {"ok":true,"result":true,"description":"Webhook was set"}
-9.Отправьте сообщение вашему боту в Telegram!
+   
+ 9. Отправьте сообщение вашему боту в Telegram!
 
